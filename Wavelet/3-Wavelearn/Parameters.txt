@@ -1,0 +1,32 @@
+Nowavelet
+n_estimators=4, random_state=42, min_samples_split=6, max_leaf_nodes=256, criterion='entropy', max_depth=16, min_samples_leaf=31, max_features = None, n_jobs=-1
+Haar-1
+max_features='sqrt', n_estimators=64, min_samples_leaf=41, min_samples_split=2, max_leaf_nodes=None, criterion='entropy', max_depth=16, random_state=42, n_jobs=-1
+Haar-2
+max_features=None, n_estimators=64, min_samples_leaf=1, min_samples_split=6, max_leaf_nodes=None, criterion='entropy', max_depth=64, random_state=42, n_jobs=-1
+Haar-3
+max_features='sqrt', n_estimators=256, min_samples_leaf=1, min_samples_split=4, max_leaf_nodes=None, criterion='entropy', max_depth=64, random_state=42, n_jobs=-1
+Haar-4
+max_features='sqrt', n_estimators=64, min_samples_leaf=1, min_samples_split=26, max_leaf_nodes=None, criterion='entropy', max_depth=32, random_state=42, n_jobs=-1
+Haar-5
+max_features='sqrt', n_estimators=256, min_samples_leaf=21, min_samples_split=18, max_leaf_nodes=None, criterion='entropy', max_depth=128, random_state=42, n_jobs=-1
+Sym5-1
+max_features='sqrt', n_estimators=256, min_samples_leaf=61, min_samples_split=30, max_leaf_nodes=256, criterion='entropy', max_depth=32, random_state=42, n_jobs=-1
+Sym5-2
+max_features='sqrt', n_estimators=128, min_samples_leaf=1, min_samples_split=8, max_leaf_nodes=None, criterion='entropy', max_depth=16, random_state=42, n_jobs=-1
+Sym5-3
+max_features='sqrt', n_estimators=64, min_samples_leaf=1, min_samples_split=20, max_leaf_nodes=None, criterion='entropy', max_depth=None, random_state=42, n_jobs=-1
+Sym5-4
+max_features='sqrt', n_estimators=64, min_samples_leaf=1, min_samples_split=24, max_leaf_nodes=None, criterion='entropy', max_depth=32, random_state=42, n_jobs=-1
+Sym5-5
+max_features='sqrt', n_estimators=32, min_samples_leaf=1, min_samples_split=24, max_leaf_nodes=256, criterion='gini', max_depth=64, random_state=42, n_jobs=-1
+Coif3-1
+max_features='sqrt', n_estimators=128, min_samples_leaf=1, min_samples_split=4, max_leaf_nodes=None, criterion='entropy', max_depth=32, random_state=42, n_jobs=-1
+Coif3-2
+max_features='sqrt', n_estimators=128, min_samples_leaf=1, min_samples_split=4, max_leaf_nodes=None, criterion='gini', max_depth=None, random_state=42, n_jobs=-1
+Coif3-3
+max_features='sqrt', n_estimators=256, min_samples_leaf=1, min_samples_split=4, max_leaf_nodes=None, criterion='entropy', max_depth=None, random_state=42, n_jobs=-1
+Coif3-4
+max_features='sqrt', n_estimators=256, min_samples_leaf=1, min_samples_split=8, max_leaf_nodes=None, criterion='entropy', max_depth=32, random_state=42, n_jobs=-1
+Coif3-5
+max_features=None, n_estimators=32, min_samples_leaf=41, min_samples_split=8, max_leaf_nodes=64, criterion='gini', max_depth=128, random_state=42, n_jobs=-1
